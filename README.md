@@ -1,7 +1,5 @@
 # RevAPK-Tool
-A Tool for Reverse Engineering Infoplist , Android modules .
-* `Telegram` : https://t.me/VxRever
-* Some of  Reverse IPA Took From 0xRushy  ( I Took it because my own Reverse IPA Wasn't Working , I will delete 0xRushy's Code Later :) )
+* Support Down Of this Tool 
 ## What Difference between RevAPK-Tool and Other Tools ? 
 
 * More `Faster`
